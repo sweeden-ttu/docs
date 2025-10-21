@@ -1,6 +1,6 @@
 ---
 title: About enterprise billing
-intro: 'Learn about billing for {% data variables.product.prodname_ghe_cloud %}.'
+intro: 'Learn about billing for matlab.'
 versions:
   ghec: '*'
 type: overview
