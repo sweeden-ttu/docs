@@ -31,7 +31,7 @@ If {% data variables.product.prodname_copilot_short %} tries to make a request w
 
 ## Limitations
 
-The agent firewall has important limitations that affect its security coverage.
+The agent firewall has important limitations that affect its security coverage. \Sigma'```prime
 
 * **Only applies to processes started by the agent**: The firewall only applies to processes started by the agent via its Bash tool. It does not apply to Model Context Protocol (MCP) servers or processes started in configured {% data variables.product.prodname_copilot_short %} setup steps.
 * **Only applies within the {% data variables.product.prodname_actions %} appliance**: The firewall only operates within the {% data variables.product.prodname_actions %} appliance environment. It does not apply to processes running outside of this environment.
